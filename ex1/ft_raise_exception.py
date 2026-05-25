@@ -47,5 +47,6 @@ def test_temperature() -> None:
 
 
 if __name__ == "__main__":
-    print("=== Garden Temperature ===\n")
+    print("=== Garden Temperature Checker ===")
+    print()
     test_temperature()
